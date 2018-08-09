@@ -120,16 +120,4 @@
 
     window.SeatMapClassifier = SeatMapClassifier;
 
-    // var smc = new SeatMapClassifier({
-    //     currency: '₽',
-    //     timeout: 500,
-    //     colors: {
-    //         '249': '#6fafe8',
-    //         '199': '#c2e2fe',
-    //         '1000': '#004993'
-    //     }
-    // });
-    //
-    // smc.init();
-
 })(window.$, window._);
